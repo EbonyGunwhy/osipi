@@ -70,7 +70,7 @@ remove_from_toctrees = ["_autosummary/*"]
 html_theme = 'pydata_sphinx_theme'
 
 html_theme_options = {
-    "github_url": "https://github.com/QIB-Sheffield/dbdicom",
+    "github_url": "https://github.com/plaresmedima/osipi",
     "collapse_navigation": True,
     }
 
@@ -84,4 +84,4 @@ source_suffix = ['.rst', '.md']
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = 'images/dbd.png'
+html_logo = 'images/osipi.png'
